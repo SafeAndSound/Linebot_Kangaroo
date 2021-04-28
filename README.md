@@ -1,2 +1,2 @@
 # Linebot_Kangaroo
-My own linebot
+My kangaroo linebot
